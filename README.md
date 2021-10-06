@@ -1,11 +1,16 @@
-# Taking-random-people
+Taking-random-people
 
 > c++控制台随机抽取学生
 
 ### 使用说明
 
 1. 两个.exe文件先运行2.1，再运行2.2。以后直接运行2.2就好了。
+
 2. 或者自己编译.cpp文件运行。
+
+3. 效果：
+
+   ![image-20211006143454057](D:\gitSpace\picture-bed\picture\image-20211006143454057-16335021350931.png)
 
 ### 项目环境
 
