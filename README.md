@@ -10,7 +10,7 @@ Taking-random-people
 
 3. 效果：
 
-   ![image-20211006143454057](D:\gitSpace\picture-bed\picture\image-20211006143454057-16335021350931.png)
+   ![image-20211006143454057](https://gitee.com/youwozimei/picture-bed/raw/master/picture/image-20211006143454057-16335021350931.png)
 
 ### 项目环境
 
